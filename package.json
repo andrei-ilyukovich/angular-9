@@ -8,6 +8,7 @@
     "build:app:prod": "ng build --prod",
     "build:lib": "ng build my-lib",
     "build:lib:prod": "ng build my-lib --prod",
+    "ngcc": "ngcc",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
